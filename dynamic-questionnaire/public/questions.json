@@ -1,0 +1,373 @@
+[
+    {
+      "section": 1,
+      "questions": [
+        {
+          "questionId": 1,
+          "text": "Registered company name: _______________________________________________________________________",
+          "level": 1,
+          "dependencies": []
+        },
+        {
+          "questionId": 2,
+          "text": "Legal form: ______________________________________________________________________________________",
+          "level": 1,
+          "dependencies": []
+        },
+        {
+          "questionId": 3,
+          "text": "Please provide us with the main business lines of your company with brief details.",
+          "level": 1,
+          "dependencies": []
+        },
+        {
+          "questionId": 4,
+          "text": "Does your institution maintain a physical presence in the country? Yes/No",
+          "level": 1,
+          "dependencies": []
+        },
+        {
+          "questionId": 5,
+          "text": "Please indicate the name and country in which your ultimate parent has its headquarters:",
+          "level": 1,
+          "dependencies": []
+        },
+        {
+          "questionId": 6,
+          "text": "Is this questionnaire applicable to your branches and/or subsidiaries? Yes/No",
+          "level": 1,
+          "dependencies": []
+        },
+        {
+          "questionId": 7,
+          "text": "Are you regulated by a supervisory authority? Yes/No",
+          "level": 1,
+          "dependencies": []
+        },
+        {
+          "questionId": 8,
+          "text": "Please provide the name of your supervisory authority:",
+          "level": 1,
+          "dependencies": [
+            {
+              "questionId": 7,
+              "answer": "Yes"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "text": "Please provide the registration or license number:",
+          "level": 1,
+          "dependencies": [
+            {
+              "questionId": 7,
+              "answer": "Yes"
+            }
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "section": 2,
+      "questions": [
+        {
+          "questionId": 10,
+          "text": "Listed company, its subsidiary or controlled company",
+          "level": 2,
+          "dependencies": []
+        },
+        {
+          "questionId": 11,
+          "text": "Details of the shareholder structure",
+          "level": 2,
+          "dependencies": []
+        },
+        {
+          "questionId": 12,
+          "text": "Details of beneficial owner(s) - individual(s)",
+          "level": 2,
+          "dependencies": []
+        },
+        {
+          "questionId": 13,
+          "text": "Have there been any significant changes in the ownership structure over the last year? Yes/No",
+          "level": 2,
+          "dependencies": []
+        },
+        {
+          "questionId": 14,
+          "text": "Please provide the names of the institution's Board of Directors and Management Board (in the case of a listed company):",
+          "level": 2,
+          "dependencies": []
+        },
+        {
+          "questionId": 15,
+          "text": "Is the institution a U.S. Person or SEC Foreign Registered Broker (in the sense of the U.S. Exchange Act)? Yes/No",
+          "level": 2,
+          "dependencies": []
+        },
+        {
+          "questionId": 16,
+          "text": "Do you have a compliance officer responsible for AML? Yes/No",
+          "level": 2,
+          "dependencies": []
+        },
+        {
+          "questionId": 17,
+          "text": "Please provide the name and contact details of the compliance officer:",
+          "level": 2,
+          "dependencies": [
+            {
+              "questionId": 16,
+              "answer": "Yes"
+            }
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "section": 1
+        }]
+    },
+    {
+      "section": 3,
+      "questions": [
+        {
+          "questionId": 18,
+          "text": "Is your country a member of the Financial Action Task Force (FATF)? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 19,
+          "text": "Do you have a legal and regulatory compliance program that includes a designated officer? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 20,
+          "text": "Is the financial crime compliance program approved by your institution’s board or a senior management member? Yes/No",
+          "level": 3,
+          "dependencies": [
+            {
+              "questionId": 19,
+              "answer": "Yes"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "text": "Please provide the date of the last review of the financial crime compliance program:",
+          "level": 3,
+          "dependencies": [
+            {
+              "questionId": 19,
+              "answer": "Yes"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "text": "Do you have a risk-based approach to monitoring and managing financial crime risks? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 23,
+          "text": "Do you have a policy on the prohibition of relationships with shell banks? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 24,
+          "text": "Do you have a customer identification program (CIP) in place? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 25,
+          "text": "Do you have a customer due diligence (CDD) program in place? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 26,
+          "text": "Do you have an enhanced due diligence (EDD) program for high-risk customers? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 27,
+          "text": "Do you have a process to identify and verify beneficial ownership information? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 28,
+          "text": "Do you have a program to identify and report suspicious transactions? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 29,
+          "text": "Is there a process to periodically update customer information? Yes/No",
+          "level": 3,
+          "dependencies": []
+        },
+        {
+          "questionId": 30,
+          "text": "Do you have a record retention policy? Yes/No",
+          "level": 3,
+          "dependencies": []
+        }
+      ],
+      "dependencies": [
+        {
+          "section": 2
+        }]
+    },
+    {
+      "section": 4,
+      "questions": [
+        {
+          "questionId": 31,
+          "text": "Do you have an employee training program in place for AML regulations? Yes/No",
+          "level": 4,
+          "dependencies": []
+        },
+        {
+          "questionId": 32,
+          "text": "Please provide the frequency of the training program (e.g., annually):",
+          "level": 4,
+          "dependencies": [
+            {
+              "questionId": 31,
+              "answer": "Yes"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "text": "Do you have an independent audit function to test your AML program? Yes/No",
+          "level": 4,
+          "dependencies": []
+        },
+        {
+          "questionId": 34,
+          "text": "Please provide the date of the last independent audit:",
+          "level": 4,
+          "dependencies": [
+            {
+              "questionId": 33,
+              "answer": "Yes"
+            }
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "section": 3
+        }]
+    },
+    {
+      "section": 5,
+      "questions": [
+        {
+          "questionId": 35,
+          "text": "Do you have policies and procedures in place to prevent money laundering and terrorist financing? Yes/No",
+          "level": 5,
+          "dependencies": []
+        },
+        {
+          "questionId": 36,
+          "text": "Do you have policies and procedures in place to comply with the applicable economic sanctions? Yes/No",
+          "level": 5,
+          "dependencies": []
+        },
+        {
+          "questionId": 37,
+          "text": "Do you have a policy regarding politically exposed persons (PEPs)? Yes/No",
+          "level": 5,
+          "dependencies": []
+        },
+        {
+          "questionId": 38,
+          "text": "Do you screen customers against relevant watch lists? Yes/No",
+          "level": 5,
+          "dependencies": []
+        },
+        {
+          "questionId": 39,
+          "text": "Do you have a policy and procedures in place to monitor and manage correspondent banking relationships? Yes/No",
+          "level": 5,
+          "dependencies": []
+        },
+        {
+          "questionId": 40,
+          "text": "Do you have a policy and procedures in place to identify and manage high-risk customers and transactions? Yes/No",
+          "level": 5,
+          "dependencies": []
+        },
+        {
+          "questionId": 41,
+          "text": "Do you have a policy and procedures in place to comply with tax and regulatory reporting requirements? Yes/No",
+          "level": 5,
+          "dependencies": []
+        }
+      ],
+      "dependencies": [
+        {
+          "section": 4
+        }]
+    },
+    {
+      "section": 6,
+      "questions": [
+        {
+          "questionId": 42,
+          "text": "Please provide any additional information related to your institution's AML policies and procedures:",
+          "level": 6,
+          "dependencies": []
+        },
+        {
+          "questionId": 43,
+          "text": "Please provide any relevant documentation to support your AML policies and procedures:",
+          "level": 6,
+          "dependencies": []
+        },
+        {
+          "questionId": 44,
+          "text": "Please provide any relevant certifications or attestations related to your AML policies and procedures:",
+          "level": 6,
+          "dependencies": []
+        }
+      ],
+      "dependencies": [
+        {
+          "section": 5
+        }]
+    },
+    {
+      "section": 7,
+      "questions": [
+        {
+          "questionId": 45,
+          "text": "Please provide the name and title of the person completing this questionnaire:",
+          "level": 7,
+          "dependencies": []
+        },
+        {
+          "questionId": 46,
+          "text": "Please provide the date of completion:",
+          "level": 7,
+          "dependencies": []
+        }
+      ],
+      "dependencies": [
+        {
+          "section": 6
+        }]
+    }
+  ]		

@@ -1,0 +1,13 @@
+.tree-menu {
+    font-size: 16px;
+  }
+  
+  .tree-menu ul {
+    list-style-type: none;
+    padding-left: 1.5rem;
+  }
+  
+  li.active-question {
+    color: #007bff;
+    font-weight: bold;
+  }
