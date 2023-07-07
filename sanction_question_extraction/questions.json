@@ -1,0 +1,202 @@
+[
+    {
+        "number": "1",
+        "text": "Registered company name: _______________________________________________________________________"
+    },
+    {
+        "number": "2",
+        "text": "Legal form: ______________________________________________________________________________________"
+    },
+    {
+        "number": "3",
+        "text": "Please provide us with the main business lines of your company with brief details."
+    },
+    {
+        "number": "4",
+        "text": "Does your institution maintain a physical presence in the Yes"
+    },
+    {
+        "number": "5",
+        "text": "Please indicate the name and country in which your ultimate parent has its headquarters:"
+    },
+    {
+        "number": "6",
+        "text": "Is this questionnaire applicable to your branches and/or Yes"
+    },
+    {
+        "number": "1",
+        "text": "Listed company, its subsidiary or controlled company"
+    },
+    {
+        "number": "2",
+        "text": "Details of the shareholder structure"
+    },
+    {
+        "number": "3",
+        "text": "Details of beneficial owner(s) - individual(s)"
+    },
+    {
+        "number": "4",
+        "text": "Have there been any significant changes in the ownership structure over the last year?"
+    },
+    {
+        "number": "5",
+        "text": "Please provide the names of the institution's Board of Directors and Management Board (in the case of"
+    },
+    {
+        "number": "6",
+        "text": "Is the institution a U.S. Person or SEC Foreign Registered Broker (in the sense of the U.S. Exchange"
+    },
+    {
+        "number": "1",
+        "text": "Is your country a member of the Financial Action Task Force (FATF)?"
+    },
+    {
+        "number": "2",
+        "text": "Do you have a legal and regulatory compliance program that includes a designated Yes"
+    },
+    {
+        "number": "3.Is",
+        "text": "the financial crime compliance program approved by your institution’s board or a Yes"
+    },
+    {
+        "number": "4",
+        "text": "Has your institution developed written policies documenting the processes that you Yes"
+    },
+    {
+        "number": "5",
+        "text": "In addition to inspections by the government supervisors/regulators, does your Yes"
+    },
+    {
+        "number": "6",
+        "text": "Does your institution have record retention procedures that comply with applicable Yes"
+    },
+    {
+        "number": "7",
+        "text": "Does your institution have policies designed to reasonably ensure that it only Yes"
+    },
+    {
+        "number": "8",
+        "text": "Does your institution adhere to the Wolfsberg Transparency Principles and the Yes"
+    },
+    {
+        "number": "9",
+        "text": "Does your institution provide AML training to relevant employees that includes? Yes"
+    },
+    {
+        "number": "10",
+        "text": "Does your institution retain records of its training sessions including attendance Yes"
+    },
+    {
+        "number": "11",
+        "text": "Does your institution communicate new financial crime compliance related laws Yes"
+    },
+    {
+        "number": "12",
+        "text": "Does your institution employ agents to carry out any of its AML related functions? Yes"
+    },
+    {
+        "number": "13",
+        "text": "If yes, does your institution provide AML training to relevant agents? Yes"
+    },
+    {
+        "number": "1",
+        "text": "Has your institution adopted policies and procedures, Yes"
+    },
+    {
+        "number": "2",
+        "text": "Does your institution subject its custody clients to Yes"
+    },
+    {
+        "number": "3",
+        "text": "Does your institution accept clients that are themselves Yes"
+    },
+    {
+        "number": "4",
+        "text": "Does your institution screen customers and transactions Domestic authorities"
+    },
+    {
+        "number": "5",
+        "text": "Where your institution opens accounts with CBL/CBF for Yes"
+    },
+    {
+        "number": "6",
+        "text": "Does your institution prohibit the opening of anonymous Yes"
+    },
+    {
+        "number": "7",
+        "text": "Which financial products and services does your Depository / Settlement services"
+    },
+    {
+        "number": "8",
+        "text": "Does your institution systematically collect information Yes"
+    },
+    {
+        "number": "9",
+        "text": "Does your institution make an AML / CTF risk Yes"
+    },
+    {
+        "number": "10",
+        "text": "Does your institution have a monitoring program for Yes"
+    },
+    {
+        "number": "11",
+        "text": "Does your institution have policies and procedures in Yes"
+    },
+    {
+        "number": "1",
+        "text": "Does your institution intermediate third party Yes"
+    },
+    {
+        "number": "2",
+        "text": "Does your institution have policies reasonably Yes"
+    },
+    {
+        "number": "3",
+        "text": "Does your institution take steps that are reasonably Yes"
+    },
+    {
+        "number": "4",
+        "text": "Does your institution have a program in place to Yes"
+    },
+    {
+        "number": "5",
+        "text": "Does your institution have customers who are Yes"
+    },
+    {
+        "number": "6",
+        "text": "Does your institution deposit assets with CBL/CBF on Yes"
+    },
+    {
+        "number": "7",
+        "text": "Does your institution have policies and procedures in Yes"
+    },
+    {
+        "number": "8",
+        "text": "Does your institution have policies and procedure in Yes"
+    },
+    {
+        "number": "9",
+        "text": "Does your institution have policies to ensure that its Yes"
+    },
+    {
+        "number": "10",
+        "text": "Please identify the types of clients that your Broker dealers"
+    },
+    {
+        "number": "11",
+        "text": "Where are your institution’s 󠄀clients located? List of countries:"
+    },
+    {
+        "number": "12",
+        "text": "Will your institution deposit assets with CBL/CBF on a. Countries designated by FATF or"
+    },
+    {
+        "number": "13",
+        "text": "Please identify the products that your institution Securities services / Custody"
+    },
+    {
+        "number": "14",
+        "text": "Does your institution have a process to identify the No"
+    }
+]
